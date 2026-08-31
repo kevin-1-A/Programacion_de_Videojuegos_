@@ -1,5 +1,5 @@
 # Programacion_de_Videojuegos_
-
+<img src="Kevin/foto.jpg" width="200">
 ![Foto](foto..jpeg)
 ### Kevin Alejandro Espitia Aranzales
 ### Rol: Artista 3D
