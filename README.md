@@ -1,6 +1,6 @@
 # Programacion_de_Videojuegos_
 
-![Foto](Kevin-Espitia/foto.peg)
+![Foto](Kevin-Espitia/foto.jpeg)
 ### Kevin Alejandro Espitia Aranzales
 ### Rol: Artista 3D
 ### Ubicación: Colombia
