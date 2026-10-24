@@ -65,3 +65,58 @@ Estudiante de ingenieria multimedia, con aspiración en explorar mas acerca del 
 ### Estudiante de Ingeniería Multimedia, con interés en el desarrollo de videojuegos con motores de Unity o Unreal, modelado 3d y animación. Actualmente estoy creando un proyecto personal y explorando las diferentes herramientas y usos para la creación de videojuegos.
  main
 main
+
+
+# Guardianes del Humedal
+
+## Descripción
+
+Guardianes del Humedal es un videojuego educativo de exploración 2D con estética pixel art retro. Su propósito es sensibilizar sobre la conservación de los humedales y la protección de la biodiversidad.
+
+El jugador asume el papel de un guardián que explora un humedal urbano ficticio y participa en acciones orientadas a la recuperación del ecosistema.
+
+## Objetivo
+
+Explorar el humedal, identificar problemas ambientales y contribuir a la recuperación de sus diferentes zonas mediante las mecánicas implementadas en el prototipo.
+
+## Tecnologías
+
+- Unity
+- GitHub y GitHub Desktop
+- Herramientas de generación y edición de recursos gráficos y sonoros
+
+## Recursos
+
+- `Assets/Sprites/Environment/`: escenario y elementos del entorno.
+- `Assets/Sprites/Characters/`: personaje principal.
+- `Assets/Sprites/Animals/`: fauna.
+- `Assets/Sprites/Waste/`: residuos.
+- `Assets/Sprites/Vegetation/`: vegetación.
+- `Assets/Sprites/UI/`: elementos gráficos de interfaz.
+- `Assets/Audio/`: recursos sonoros.
+- `Assets/Scenes/`: escenas.
+- `Assets/Scripts/`: scripts.
+
+## Instrucciones de ejecución
+
+1. Clonar el repositorio.
+2. Abrir el proyecto con una versión compatible de Unity Hub.
+3. Esperar a que Unity importe los recursos.
+4. Abrir la escena principal.
+5. Ejecutar la escena con el botón Play.
+
+**Estado:** prototipo en desarrollo. Las instrucciones anteriores deben verificarse cuando la escena principal esté disponible.
+
+## Integrantes y roles
+
+- Jhon Alejandro Arriaga: Game Designer y gestión de assets gráficos.
+- Juan Camilo Bernal: Diseñador de sonido.
+- Kevin Alejandro Espitia: Integrador y desarrollador
+
+## Uso de inteligencia artificial
+
+Los recursos generados con IA y sus modificaciones se documentan en la declaración de uso de IA del proyecto.
+
+## Control de versiones
+
+El repositorio utiliza commits identificables por integrante y etiquetas de versión para registrar la evolución del prototipo.
